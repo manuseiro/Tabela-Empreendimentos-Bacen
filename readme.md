@@ -65,7 +65,7 @@ Para executar esse exemplo, você precisará de:
   <script src="script.js"></script>
 </body>
 </html>
-
+```
 Crie um arquivo JavaScript chamado script.js na mesma pasta do arquivo HTML com o seguinte conteúdo:
 
 // Insira aqui o conteúdo do arquivo script.js fornecido anteriormente
