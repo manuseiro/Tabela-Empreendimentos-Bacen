@@ -1,0 +1,4 @@
+/* Estilo para linhas com data de fim menor que a data atual */
+.destaque-vermelho {
+  background-color: #ffcccc; /* Cor de fundo vermelho claro */
+}
